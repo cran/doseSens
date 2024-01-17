@@ -1,0 +1,16 @@
+0828439218aacd94cfc460bd56477666 *DESCRIPTION
+012831b099e472395e548660ba24ea49 *LICENSE
+ff213821443f1e637f1d9779ed77b3e7 *NAMESPACE
+a499b142cee1827cf577761466d6edac *R/AE.R
+053df777b4292b28e9b27e8a6bb681f4 *R/data.R
+8c41230c2f3c3b2b6475710a1c6ef431 *R/sharp.R
+26d097372958760e9ddf531ca97fde77 *R/utils.R
+da6b24812b2b5382e8660c591f279494 *data/treat_out_match.rda
+d9e67e370af7e1f9976d6e6cf34fbc4b *man/binary_thresh_attribute.Rd
+a68d8fd79bc43e2c66d987a60b2ca88b *man/change_Delta.Rd
+26d9cb4a933e241d4add56b2b4a31fdc *man/dev_TV.Rd
+ee204ccecbd7f35f56cdf6c1be507848 *man/dose_attributable_general.Rd
+07af49d6eba8374b0a0040a460431e2a *man/dose_sensitivity_mc_gen.Rd
+bb422e86a401138d1659fd965397232e *man/dose_thresh_attributable_one_sided.Rd
+68c6c38c603ab2acdb361a7c2e189c19 *man/normal_test_gen.Rd
+75f5ad80a072476b355acbef8bb426df *man/treat_out_match.Rd
